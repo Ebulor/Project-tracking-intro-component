@@ -210,6 +210,7 @@ main {
   .text {
     margin-top: 0;
     width: 50%;
+    padding-right: 0;
   }
   .center h1 {
     font-size: 3.9rem;
