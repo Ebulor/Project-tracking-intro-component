@@ -208,9 +208,7 @@ main {
     width: 100%;
   }
   .text {
-    margin-top: 0;
-    width: 60%;
-    
+    margin-top: 0;      
   }
   .center h1 {
     font-size: 3.9rem;
