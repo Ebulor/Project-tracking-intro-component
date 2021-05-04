@@ -213,4 +213,7 @@ main {
   .center h1 {
     font-size: 3.9rem;
   }
+  .center p {
+    width: 70%;
+  }
 }
